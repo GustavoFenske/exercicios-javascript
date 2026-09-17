@@ -1,23 +1,22 @@
-# 🎨 Exercícios de Estilização CSS
+# 🟨 Exercícios de JavaScript
 
-Lista de exercícios desenvolvida para praticar estilização de páginas web utilizando CSS.
+Lista de exercícios desenvolvida para praticar conceitos fundamentais de JavaScript.
 
 ## 📌 Sobre o projeto
 
-O projeto reúne diferentes exercícios voltados à aplicação de estilos, propriedades e técnicas de CSS.
+O projeto reúne diferentes exercícios de programação desenvolvidos para praticar lógica e funcionalidades utilizando JavaScript.
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologia
 
-- HTML5
-- CSS3
+- JavaScript
 
 ## 🎯 Objetivo
 
-Praticar conceitos fundamentais de estilização e melhorar a compreensão do funcionamento do CSS.
+Desenvolver conhecimentos de programação e praticar conceitos fundamentais da linguagem JavaScript.
 
 ## 🚀 Como executar
 
-Abra os arquivos HTML em um navegador.
+Abra os arquivos HTML em um navegador com JavaScript habilitado.
 
 ## 👨‍💻 Autor
 
